@@ -22,8 +22,6 @@ Cryptonator.ticker("BTC", "USD")
 Cryptonator.ticker_with_markets("BTC", "USD")
 ```
 
-TODO: Write usage instructions here
-
 ## Contributors
 
 - [z64](https://github.com/z64) Zac Nowicki - creator, maintainer
